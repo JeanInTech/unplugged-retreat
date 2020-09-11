@@ -87,6 +87,124 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+/*---------------- Base Header - Footer Styles ----------------*/ 
+
+header,
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+/* Header Styles*/
+
+header {
+
+}
+
+header .content-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*---------------- Mobile Styles - Homepage ----------------*/ 
+
+.top-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main{ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.general-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.testimonials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Footer */
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.copyright {
+
+}
+
+/*---------------- Mobile Styles - About ----------------*/ 
+
+.faq {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.faq-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*---------------- Mobile Styles - FAQ ----------------*/ 
+.mission {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mission-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
